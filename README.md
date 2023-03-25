@@ -8,6 +8,17 @@ Test your intuition with your friends, win some tokens or win some excitement (e
 
 Management of wagers and distribution of prizes are powered by FLOW's Cadence smart contract.
 
+## How is it built?
+
+refer to `src/cadence` for contracts
+
+contracts are deployed to this account on Testnet
+https://f.dnz.dev/0x0fbbe25ef97bb64e/Fruit
+
+refer to `src/ui` for frontend website built with NextJS
+
+run `yarn dev` to run the UI
+
 ## So, what’s a BOWL?
 
 A BOWL is where users come to put their wagers and stand by their picks.
