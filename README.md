@@ -29,12 +29,11 @@ Those users who made the right pick share all the tokens wagered in the BOWL vau
 
 ## How to create a BOWL?
 
-There are 4 main stages of a BOWL
+There are 3 main stages of a BOWL
 
-- You create a new NFT Raffle by setting the basic information, depositing NFTs and setting the criteria for eligible accounts, then share the Raffle link to your community
-- Community members go to the Raffle page, check their eligibility and register for the Raffle if they are eligible
-- Once the registration end, you can draw the winners. For each draw, a winner will be selected randomly from registrants, and an NFT will be picked out randomly from NFTs in the Raffle as the reward for winner.
-- Registrants go to the Raffle page to check whether they are winners or not, and claim the reward if they are.
+- host starts a BOWL, sets entry eligibility (whitelist, ownership of certain NFTs), then sets entry fee, potential picks for participants to pick
+- participants pay the entry fee (which goes into the BOWL vault), then decide on picks
+- host or a panel of judges decide the winning pick, the vault is then split equally among the winning participants
 
 To decide who is eligible for your BOWL, you can check **[here](#who-is-eligible)**.
 
